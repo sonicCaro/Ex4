@@ -44,13 +44,13 @@ so they can do they work according to the new requirements .
 
 
 ////HOW TO PLAY/////
-*Option 1*
+*Option 1* :
 1)load the game from a given file that has a list of 9 games.
 2)use the mouse to set the initial location of your player.
 3)press tab key 
 4)the game starts when pressing any arrow key 
 
-*Option 2*
+*Option 2* : 
 1)choose a game 
 2)press on the Automatic mode 
 
